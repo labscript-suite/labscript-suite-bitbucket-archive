@@ -1,0 +1,47 @@
+<div class="container-fluid">
+        <div class="row">
+          <div class="col-md-2">
+            <!--Sidebar content-->
+            <sidebar-links></sidebar-links>
+          </div>
+          <div class="col-md-10 table-responsive">
+            <!--Body content-->
+      
+            <h2>Issues</h2>
+            <table class="issues table table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th nowrap ng-repeat="column in $ctrl.tableCols">
+                            <a ng-click="$ctrl.orderProp=column.index; $ctrl.reverseSort = !$ctrl.reverseSort">
+                                {{column.title}}
+                                <span ng-show="$ctrl.orderProp == '{{column.index}}'">
+                                    <span ng-class="!$ctrl.reverseSort ? 'glyphicon glyphicon-triangle-top' : 'glyphicon glyphicon-triangle-bottom'"></span>
+                                </span>
+                            </a>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="issue in $ctrl.issues.values | filter:$ctrl.query | orderBy:$ctrl.orderProp:$ctrl.reverseSort" >
+                        <td><a href="#!/{{$ctrl.project_slug}}/issues/{{issue.id}}">#{{issue.id}}: {{issue.title}}</a></td>
+                        <td><author showname="true" author="issue.reporter"></author></td>
+                        <td>{{issue.kind}}</td>
+                        <td>{{issue.priority}}</td>
+                        <td><span class="label" ng-class="issue.state=='new' || issue.state=='open' ? 'label-default' : (issue.state=='resolved' || issue.state=='closed' ? 'label-success' : (issue.state=='invalid' || issue.state=='wontfix' || issue.state=='duplicate' ? 'label-danger' : (issue.state=='on hold' ? 'label-warning' :'')))">{{issue.state | uppercase}}</span></td>
+                        <td><span class="badge">{{issue.votes}}</span></td>
+                        <td><author showname="true" author="issue.assignee"></author></td>
+                        <td><span class="badge">{{issue.component.name}}</span></td>
+                        <td><span class="badge">{{issue.milestone.name}}</span></td>
+                        <td><span class="badge">{{issue.version.name}}</span></td>
+                        <td><span uib-tooltip="{{issue.created_on | date: 'dd MMMM yyyy HH:mm'}}" tooltip-placement="bottom">{{issue.created_on | date: 'yyyy-MM-dd'}}</span></td>
+                        <td><span uib-tooltip="{{issue.updated_on | date: 'dd MMMM yyyy HH:mm'}}" tooltip-placement="bottom">{{issue.updated_on | date: 'yyyy-MM-dd'}}</span></td>
+                    </tr>
+                </tbody>
+            </table>
+          
+            <span ng-show="$ctrl.currentPage > 1"><a href="#!/{{$ctrl.project_slug}}/issues/page/{{$ctrl.currentPage-1 | number:0}}">&laquo; Prev</a></span>
+            | <strong>Page {{$ctrl.currentPage}}</strong> |
+            <span ng-show="$ctrl.issues.next"><a href="#!/{{$ctrl.project_slug}}/issues/page/{{$ctrl.currentPage+1 | number:0}}">Next &raquo;</a></span>
+          </div>
+        </div>
+      </div>

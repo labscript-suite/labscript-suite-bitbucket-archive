@@ -1,0 +1,184 @@
+2015-04-13 11:43:52,259 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00023.h5'}
+2015-04-13 11:43:52,368 INFO lyse.FileBox.incoming: adding:
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00023.h5
+2015-04-13 11:43:52,634 INFO lyse: WebServer request: hello
+2015-04-13 11:43:53,118 INFO lyse.FileBox.analysis_loop: analysing: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00023.h5
+2015-04-13 11:43:53,118 INFO lyse.RoutineBox.singleshot: got a file to process: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00023.h5
+2015-04-13 11:43:53,134 DEBUG lyse.RoutineBox.singleshot: 2 routines left to do
+2015-04-13 11:43:53,134 INFO lyse.RoutineBox.singleshot: running analysis routine OD_calc.py
+2015-04-13 11:43:54,506 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:43:54,506 DEBUG lyse.RoutineBox.singleshot: 1 routines left to do
+2015-04-13 11:43:54,506 INFO lyse.RoutineBox.singleshot: running analysis routine fit_frame_roi.py
+2015-04-13 11:43:56,301 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:43:56,301 DEBUG lyse.RoutineBox.singleshot: completed analysis of Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00023.h5
+2015-04-13 11:43:56,970 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2015-04-13 11:43:56,970 INFO lyse.RoutineBox.multishot: got a file to process: None
+2015-04-13 11:43:57,003 DEBUG lyse.RoutineBox.multishot: 1 routines left to do
+2015-04-13 11:43:57,003 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_x.py
+2015-04-13 11:43:57,049 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:44:02,151 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:44:02,151 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2015-04-13 11:44:02,727 INFO lyse: WebServer request: hello
+2015-04-13 11:44:10,043 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00024.h5'}
+2015-04-13 11:44:10,153 INFO lyse.FileBox.incoming: adding:
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00024.h5
+2015-04-13 11:44:10,980 INFO lyse.FileBox.analysis_loop: analysing: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00024.h5
+2015-04-13 11:44:10,980 INFO lyse.RoutineBox.singleshot: got a file to process: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00024.h5
+2015-04-13 11:44:10,996 DEBUG lyse.RoutineBox.singleshot: 2 routines left to do
+2015-04-13 11:44:10,996 INFO lyse.RoutineBox.singleshot: running analysis routine OD_calc.py
+2015-04-13 11:44:12,447 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:12,447 DEBUG lyse.RoutineBox.singleshot: 1 routines left to do
+2015-04-13 11:44:12,447 INFO lyse.RoutineBox.singleshot: running analysis routine fit_frame_roi.py
+2015-04-13 11:44:12,821 INFO lyse: WebServer request: hello
+2015-04-13 11:44:14,677 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:14,693 DEBUG lyse.RoutineBox.singleshot: completed analysis of Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00024.h5
+2015-04-13 11:44:15,426 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2015-04-13 11:44:15,426 INFO lyse.RoutineBox.multishot: got a file to process: None
+2015-04-13 11:44:15,457 DEBUG lyse.RoutineBox.multishot: 1 routines left to do
+2015-04-13 11:44:15,457 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_x.py
+2015-04-13 11:44:15,503 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:44:20,714 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:44:20,714 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2015-04-13 11:44:22,867 INFO lyse: WebServer request: hello
+2015-04-13 11:44:27,766 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00025.h5'}
+2015-04-13 11:44:27,891 INFO lyse.FileBox.incoming: adding:
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00025.h5
+2015-04-13 11:44:28,624 INFO lyse.FileBox.analysis_loop: analysing: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00025.h5
+2015-04-13 11:44:28,624 INFO lyse.RoutineBox.singleshot: got a file to process: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00025.h5
+2015-04-13 11:44:28,638 DEBUG lyse.RoutineBox.singleshot: 2 routines left to do
+2015-04-13 11:44:28,638 INFO lyse.RoutineBox.singleshot: running analysis routine OD_calc.py
+2015-04-13 11:44:29,964 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:29,964 DEBUG lyse.RoutineBox.singleshot: 1 routines left to do
+2015-04-13 11:44:29,964 INFO lyse.RoutineBox.singleshot: running analysis routine fit_frame_roi.py
+2015-04-13 11:44:31,775 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:31,775 DEBUG lyse.RoutineBox.singleshot: completed analysis of Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00025.h5
+2015-04-13 11:44:32,430 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2015-04-13 11:44:32,430 INFO lyse.RoutineBox.multishot: got a file to process: None
+2015-04-13 11:44:32,476 DEBUG lyse.RoutineBox.multishot: 1 routines left to do
+2015-04-13 11:44:32,476 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_x.py
+2015-04-13 11:44:32,523 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:44:36,392 INFO lyse: WebServer request: hello
+2015-04-13 11:44:36,392 INFO lyse: WebServer request: hello
+2015-04-13 11:44:37,608 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:44:37,608 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2015-04-13 11:44:45,440 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00026.h5'}
+2015-04-13 11:44:45,549 INFO lyse.FileBox.incoming: adding:
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00026.h5
+2015-04-13 11:44:46,454 INFO lyse: WebServer request: hello
+2015-04-13 11:44:47,250 INFO lyse.FileBox.analysis_loop: analysing: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00026.h5
+2015-04-13 11:44:47,250 INFO lyse.RoutineBox.singleshot: got a file to process: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00026.h5
+2015-04-13 11:44:47,250 DEBUG lyse.RoutineBox.singleshot: 2 routines left to do
+2015-04-13 11:44:47,250 INFO lyse.RoutineBox.singleshot: running analysis routine OD_calc.py
+2015-04-13 11:44:48,592 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:48,607 DEBUG lyse.RoutineBox.singleshot: 1 routines left to do
+2015-04-13 11:44:48,607 INFO lyse.RoutineBox.singleshot: running analysis routine fit_frame_roi.py
+2015-04-13 11:44:50,355 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:44:50,355 DEBUG lyse.RoutineBox.singleshot: completed analysis of Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00026.h5
+2015-04-13 11:44:50,979 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2015-04-13 11:44:50,979 INFO lyse.RoutineBox.multishot: got a file to process: None
+2015-04-13 11:44:51,040 DEBUG lyse.RoutineBox.multishot: 2 routines left to do
+2015-04-13 11:44:51,040 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_auto.py
+2015-04-13 11:44:51,290 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:44:56,470 INFO lyse: WebServer request: hello
+2015-04-13 11:44:57,421 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:44:57,421 DEBUG lyse.RoutineBox.multishot: 1 routines left to do
+2015-04-13 11:44:57,421 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_x.py
+2015-04-13 11:44:57,467 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:45:02,569 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:45:02,569 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2015-04-13 11:45:02,569 INFO lyse.FileBox.analysis_loop: doing multishot analysis
+2015-04-13 11:45:02,569 INFO lyse.RoutineBox.multishot: got a file to process: None
+2015-04-13 11:45:02,585 DEBUG lyse.RoutineBox.multishot: 2 routines left to do
+2015-04-13 11:45:02,585 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_auto.py
+2015-04-13 11:45:02,788 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:45:06,719 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00027.h5'}
+2015-04-13 11:45:06,719 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00027.h5'}
+2015-04-13 11:45:06,719 INFO lyse: WebServer request: hello
+2015-04-13 11:45:06,828 INFO lyse.FileBox.incoming: adding:
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00027.h5
+Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00027.h5
+2015-04-13 11:45:07,701 ERROR lyse: Got an exception:
+Traceback (most recent call last):
+  File "C:\Anaconda\lib\threading.py", line 763, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\labscript_suite\lyse\__main__.py", line 1503, in incoming_buffer_loop
+    self.shots_model.add_files(filepaths, new_row_data)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 105, in f
+    return inmain(fn, *args, **kwargs)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 68, in inmain
+    return get_inmain_result(in_main_later(fn,False,*args,**kwargs))
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 47, in event
+    result = event.fn(*event.args, **event.kwargs)
+  File "C:\labscript_suite\lyse\__main__.py", line 1323, in add_files
+    self.update_row(filepath, dataframe_already_updated=True)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 105, in f
+    return inmain(fn, *args, **kwargs)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 67, in inmain
+    return fn(*args, **kwargs)
+  File "C:\labscript_suite\lyse\__main__.py", line 1249, in update_row
+    model_row_number = self.get_model_row_by_filepath(filepath)
+  File "C:\labscript_suite\lyse\__main__.py", line 1131, in get_model_row_by_filepath
+    raise LookupError('Multiple items found')
+LookupError: Multiple items found
+
+2015-04-13 11:45:08,763 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:45:08,763 DEBUG lyse.RoutineBox.multishot: 1 routines left to do
+2015-04-13 11:45:08,763 INFO lyse.RoutineBox.multishot: running analysis routine y_vs_x.py
+2015-04-13 11:45:08,825 INFO lyse: WebServer request: get dataframe
+2015-04-13 11:45:14,176 DEBUG lyse.RoutineBox.multishot: success
+2015-04-13 11:45:14,190 DEBUG lyse.RoutineBox.multishot: completed analysis of None
+2015-04-13 11:45:14,190 INFO lyse.FileBox.analysis_loop: analysing: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00027.h5
+2015-04-13 11:45:14,190 INFO lyse.RoutineBox.singleshot: got a file to process: Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00027.h5
+2015-04-13 11:45:14,207 DEBUG lyse.RoutineBox.singleshot: 2 routines left to do
+2015-04-13 11:45:14,207 INFO lyse.RoutineBox.singleshot: running analysis routine OD_calc.py
+2015-04-13 11:45:15,516 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:45:15,516 DEBUG lyse.RoutineBox.singleshot: 1 routines left to do
+2015-04-13 11:45:15,516 INFO lyse.RoutineBox.singleshot: running analysis routine fit_frame_roi.py
+2015-04-13 11:45:15,953 ERROR lyse: Got an exception:
+Traceback (most recent call last):
+  File "C:\Anaconda\lib\threading.py", line 763, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "C:\labscript_suite\lyse\__main__.py", line 1526, in analysis_loop
+    self.do_singleshot_analysis(filepath)
+  File "C:\labscript_suite\lyse\__main__.py", line 1555, in do_singleshot_analysis
+    self.shots_model.update_row(filepath, status_percent=status_percent, new_row_data=new_row_data)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 105, in f
+    return inmain(fn, *args, **kwargs)
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 68, in inmain
+    return get_inmain_result(in_main_later(fn,False,*args,**kwargs))
+  File "C:\Anaconda\lib\site-packages\qtutils\invoke_in_main.py", line 47, in event
+    result = event.fn(*event.args, **event.kwargs)
+  File "C:\labscript_suite\lyse\__main__.py", line 1249, in update_row
+    model_row_number = self.get_model_row_by_filepath(filepath)
+  File "C:\labscript_suite\lyse\__main__.py", line 1131, in get_model_row_by_filepath
+    raise LookupError('Multiple items found')
+LookupError: Multiple items found
+
+2015-04-13 11:45:16,780 INFO lyse: WebServer request: hello
+2015-04-13 11:45:17,312 DEBUG lyse.RoutineBox.singleshot: success
+2015-04-13 11:45:17,326 DEBUG lyse.RoutineBox.singleshot: completed analysis of Z:\Experiments\krb\krb_sequential_loads\2015-Apr\13\20150413T113723_krb_sequential_loads_0_rep00027.h5
+2015-04-13 11:45:21,960 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00028.h5'}
+2015-04-13 11:45:26,812 INFO lyse: WebServer request: hello
+2015-04-13 11:45:36,826 INFO lyse: WebServer request: hello
+2015-04-13 11:45:39,556 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00029.h5'}
+2015-04-13 11:45:46,920 INFO lyse: WebServer request: hello
+2015-04-13 11:45:56,936 INFO lyse: WebServer request: hello
+2015-04-13 11:45:57,107 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00030.h5'}
+2015-04-13 11:46:06,950 INFO lyse: WebServer request: hello
+2015-04-13 11:46:14,766 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00031.h5'}
+2015-04-13 11:46:16,966 INFO lyse: WebServer request: hello
+2015-04-13 11:46:26,966 INFO lyse: WebServer request: hello
+2015-04-13 11:46:32,410 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00032.h5'}
+2015-04-13 11:46:36,996 INFO lyse: WebServer request: hello
+2015-04-13 11:46:46,996 INFO lyse: WebServer request: hello
+2015-04-13 11:46:50,069 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00033.h5'}
+2015-04-13 11:46:57,026 INFO lyse: WebServer request: hello
+2015-04-13 11:47:07,026 INFO lyse: WebServer request: hello
+2015-04-13 11:47:07,681 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00034.h5'}
+2015-04-13 11:47:17,042 INFO lyse: WebServer request: hello
+2015-04-13 11:47:25,309 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00035.h5'}
+2015-04-13 11:47:27,072 INFO lyse: WebServer request: hello
+2015-04-13 11:47:37,088 INFO lyse: WebServer request: hello
+2015-04-13 11:47:42,828 INFO lyse: WebServer request: {'filepath': 'Z:\\Experiments\\krb\\krb_sequential_loads\\2015-Apr\\13\\20150413T113723_krb_sequential_loads_0_rep00036.h5'}
+2015-04-13 11:47:47,102 INFO lyse: WebServer request: hello
+2015-04-13 11:47:57,148 INFO lyse: WebServer request: hello

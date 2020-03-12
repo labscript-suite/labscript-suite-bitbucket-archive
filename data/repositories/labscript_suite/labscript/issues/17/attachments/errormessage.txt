@@ -1,0 +1,18 @@
+
+Traceback (most recent call last):
+  File "C:\labscript_suite\labscript_devices\NI_PCI_6733.py", line 216, in transition_to_buffered
+    self.ao_task.WriteAnalogF64(ao_data.shape[0],False,10.0,DAQmx_Val_GroupByScanNumber, ao_data,ao_read,None)
+  File "<string>", line 3, in WriteAnalogF64
+  File "<string>", line 2, in function
+  File "C:\Anaconda\lib\site-packages\PyDAQmx\DAQmxFunctions.py", line 28, in mafunction
+    raise DAQError(error,errBuff.value.decode("utf-8"), f.__name__)
+DAQError: Requested value is not a supported value for this property. The property value may be invalid because it conflicts with another property.
+Property: DAQmx_SampQuant_SampPerChan
+Requested Value: 1
+Valid Values Begin with: 2
+Valid Values End with: 281474976710655
+
+Task Name: _unnamedTask<2>
+
+Status Code: -200077
+ in function DAQmxWriteAnalogF64

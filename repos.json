@@ -1,0 +1,830 @@
+{
+    "labscript_suite/labscript_utils": {
+        "project_file": "data/repositories/labscript_suite/labscript_utils.json",
+        "project_path": "data/repositories/labscript_suite/labscript_utils/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/labscript_utils"
+    },
+    "labscript_suite/blacs": {
+        "project_file": "data/repositories/labscript_suite/blacs.json",
+        "project_path": "data/repositories/labscript_suite/blacs/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/blacs"
+    },
+    "labscript_suite/labscript": {
+        "project_file": "data/repositories/labscript_suite/labscript.json",
+        "project_path": "data/repositories/labscript_suite/labscript/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/labscript"
+    },
+    "labscript_suite/lyse": {
+        "project_file": "data/repositories/labscript_suite/lyse.json",
+        "project_path": "data/repositories/labscript_suite/lyse/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/lyse"
+    },
+    "labscript_suite/mise": {
+        "project_file": "data/repositories/labscript_suite/mise.json",
+        "project_path": "data/repositories/labscript_suite/mise/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/mise"
+    },
+    "labscript_suite/runmanager": {
+        "project_file": "data/repositories/labscript_suite/runmanager.json",
+        "project_path": "data/repositories/labscript_suite/runmanager/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/runmanager"
+    },
+    "labscript_suite/runviewer": {
+        "project_file": "data/repositories/labscript_suite/runviewer.json",
+        "project_path": "data/repositories/labscript_suite/runviewer/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/runviewer"
+    },
+    "labscript_suite/labscript_devices": {
+        "project_file": "data/repositories/labscript_suite/labscript_devices.json",
+        "project_path": "data/repositories/labscript_suite/labscript_devices/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/labscript_devices"
+    },
+    "labscript_suite/bias": {
+        "project_file": "data/repositories/labscript_suite/bias.json",
+        "project_path": "data/repositories/labscript_suite/bias/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/bias"
+    },
+    "labscript_suite/installer": {
+        "project_file": "data/repositories/labscript_suite/installer.json",
+        "project_path": "data/repositories/labscript_suite/installer/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/installer"
+    },
+    "labscript_suite/pineblaster": {
+        "project_file": "data/repositories/labscript_suite/pineblaster.json",
+        "project_path": "data/repositories/labscript_suite/pineblaster/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/pineblaster"
+    },
+    "labscript_suite/pineblasterv2": {
+        "project_file": "data/repositories/labscript_suite/pineblasterv2.json",
+        "project_path": "data/repositories/labscript_suite/pineblasterv2/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/pineblasterv2"
+    },
+    "labscript_suite/opalkellyxem3001": {
+        "project_file": "data/repositories/labscript_suite/opalkellyxem3001.json",
+        "project_path": "data/repositories/labscript_suite/opalkellyxem3001/",
+        "is_fork": false,
+        "github_repo": "https://github.com/labscript-suite/opalkellyxem3001"
+    },
+    "spielman/labscript_utils": {
+        "project_file": "data/repositories/spielman/labscript_utils.json",
+        "project_path": "data/repositories/spielman/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "mearnshaw/labscript_utils": {
+        "project_file": "data/repositories/mearnshaw/labscript_utils.json",
+        "project_path": "data/repositories/mearnshaw/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "monashkrb/labscript_utils": {
+        "project_file": "data/repositories/monashkrb/labscript_utils.json",
+        "project_path": "data/repositories/monashkrb/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "monashspinor/labscript_utils": {
+        "project_file": "data/repositories/monashspinor/labscript_utils.json",
+        "project_path": "data/repositories/monashspinor/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "zachglassman/labscript_utils": {
+        "project_file": "data/repositories/zachglassman/labscript_utils.json",
+        "project_path": "data/repositories/zachglassman/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "cbillington/labscript_utils": {
+        "project_file": "data/repositories/cbillington/labscript_utils.json",
+        "project_path": "data/repositories/cbillington/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "dihm/labscript_utils": {
+        "project_file": "data/repositories/dihm/labscript_utils.json",
+        "project_path": "data/repositories/dihm/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "PhyNerd/labscript_utils": {
+        "project_file": "data/repositories/PhyNerd/labscript_utils.json",
+        "project_path": "data/repositories/PhyNerd/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "dsbarker/labscript_utils": {
+        "project_file": "data/repositories/dsbarker/labscript_utils.json",
+        "project_path": "data/repositories/dsbarker/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "spielman/labscript_utils_mainline": {
+        "project_file": "data/repositories/spielman/labscript_utils_mainline.json",
+        "project_path": "data/repositories/spielman/labscript_utils_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript_utils_mainline--forked-from--labscript_suite-labscript_utils"
+    },
+    "pstarkey/labscript_utils": {
+        "project_file": "data/repositories/pstarkey/labscript_utils.json",
+        "project_path": "data/repositories/pstarkey/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "cavitylab/labscript_utils": {
+        "project_file": "data/repositories/cavitylab/labscript_utils.json",
+        "project_path": "data/repositories/cavitylab/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "lkohfahl/labscript_utils": {
+        "project_file": "data/repositories/lkohfahl/labscript_utils.json",
+        "project_path": "data/repositories/lkohfahl/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "synqs/labscript_utils": {
+        "project_file": "data/repositories/synqs/labscript_utils.json",
+        "project_path": "data/repositories/synqs/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/synqs-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "rpanderson/labscript_utils": {
+        "project_file": "data/repositories/rpanderson/labscript_utils.json",
+        "project_path": "data/repositories/rpanderson/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rpanderson-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "rbchip/labscript_utils": {
+        "project_file": "data/repositories/rbchip/labscript_utils.json",
+        "project_path": "data/repositories/rbchip/labscript_utils/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rbchip-labscript_utils--forked-from--labscript_suite-labscript_utils"
+    },
+    "spielman/blacs": {
+        "project_file": "data/repositories/spielman/blacs.json",
+        "project_path": "data/repositories/spielman/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-blacs--forked-from--labscript_suite-blacs"
+    },
+    "pstarkey/blacs": {
+        "project_file": "data/repositories/pstarkey/blacs.json",
+        "project_path": "data/repositories/pstarkey/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-blacs--forked-from--labscript_suite-blacs"
+    },
+    "mearnshaw/blacs": {
+        "project_file": "data/repositories/mearnshaw/blacs.json",
+        "project_path": "data/repositories/mearnshaw/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-blacs--forked-from--labscript_suite-blacs"
+    },
+    "monashkrb/blacs": {
+        "project_file": "data/repositories/monashkrb/blacs.json",
+        "project_path": "data/repositories/monashkrb/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-blacs--forked-from--labscript_suite-blacs"
+    },
+    "rpanderson/blacs": {
+        "project_file": "data/repositories/rpanderson/blacs.json",
+        "project_path": "data/repositories/rpanderson/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rpanderson-blacs--forked-from--labscript_suite-blacs"
+    },
+    "monashspinor/blacs": {
+        "project_file": "data/repositories/monashspinor/blacs.json",
+        "project_path": "data/repositories/monashspinor/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-blacs--forked-from--labscript_suite-blacs"
+    },
+    "zachglassman/blacs": {
+        "project_file": "data/repositories/zachglassman/blacs.json",
+        "project_path": "data/repositories/zachglassman/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-blacs--forked-from--labscript_suite-blacs"
+    },
+    "dihm/blacs": {
+        "project_file": "data/repositories/dihm/blacs.json",
+        "project_path": "data/repositories/dihm/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-blacs--forked-from--labscript_suite-blacs"
+    },
+    "cbillington/blacs": {
+        "project_file": "data/repositories/cbillington/blacs.json",
+        "project_path": "data/repositories/cbillington/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-blacs--forked-from--labscript_suite-blacs"
+    },
+    "PhyNerd/blacs": {
+        "project_file": "data/repositories/PhyNerd/blacs.json",
+        "project_path": "data/repositories/PhyNerd/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-blacs--forked-from--labscript_suite-blacs"
+    },
+    "dsbarker/blacs": {
+        "project_file": "data/repositories/dsbarker/blacs.json",
+        "project_path": "data/repositories/dsbarker/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-blacs--forked-from--labscript_suite-blacs"
+    },
+    "spielman/blacs_mainline": {
+        "project_file": "data/repositories/spielman/blacs_mainline.json",
+        "project_path": "data/repositories/spielman/blacs_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-blacs_mainline--forked-from--labscript_suite-blacs"
+    },
+    "cavitylab/blacs": {
+        "project_file": "data/repositories/cavitylab/blacs.json",
+        "project_path": "data/repositories/cavitylab/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-blacs--forked-from--labscript_suite-blacs"
+    },
+    "lkohfahl/blacs": {
+        "project_file": "data/repositories/lkohfahl/blacs.json",
+        "project_path": "data/repositories/lkohfahl/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-blacs--forked-from--labscript_suite-blacs"
+    },
+    "fanyangphy/blacs": {
+        "project_file": "data/repositories/fanyangphy/blacs.json",
+        "project_path": "data/repositories/fanyangphy/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/fanyangphy-blacs--forked-from--labscript_suite-blacs"
+    },
+    "rbchip/blacs": {
+        "project_file": "data/repositories/rbchip/blacs.json",
+        "project_path": "data/repositories/rbchip/blacs/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rbchip-blacs--forked-from--labscript_suite-blacs"
+    },
+    "spielman/labscript": {
+        "project_file": "data/repositories/spielman/labscript.json",
+        "project_path": "data/repositories/spielman/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript--forked-from--labscript_suite-labscript"
+    },
+    "mearnshaw/labscript": {
+        "project_file": "data/repositories/mearnshaw/labscript.json",
+        "project_path": "data/repositories/mearnshaw/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-labscript--forked-from--labscript_suite-labscript"
+    },
+    "monashkrb/labscript": {
+        "project_file": "data/repositories/monashkrb/labscript.json",
+        "project_path": "data/repositories/monashkrb/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-labscript--forked-from--labscript_suite-labscript"
+    },
+    "monashspinor/labscript": {
+        "project_file": "data/repositories/monashspinor/labscript.json",
+        "project_path": "data/repositories/monashspinor/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-labscript--forked-from--labscript_suite-labscript"
+    },
+    "pstarkey/labscript": {
+        "project_file": "data/repositories/pstarkey/labscript.json",
+        "project_path": "data/repositories/pstarkey/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-labscript--forked-from--labscript_suite-labscript"
+    },
+    "kjustis/labscriptkelseyversion": {
+        "project_file": "data/repositories/kjustis/labscriptkelseyversion.json",
+        "project_path": "data/repositories/kjustis/labscriptkelseyversion/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/kjustis-labscriptkelseyversion--forked-from--labscript_suite-labscript"
+    },
+    "zachglassman/labscript": {
+        "project_file": "data/repositories/zachglassman/labscript.json",
+        "project_path": "data/repositories/zachglassman/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-labscript--forked-from--labscript_suite-labscript"
+    },
+    "ReneKolb/labscript": {
+        "project_file": "data/repositories/ReneKolb/labscript.json",
+        "project_path": "data/repositories/ReneKolb/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/ReneKolb-labscript--forked-from--labscript_suite-labscript"
+    },
+    "PhyNerd/labscript": {
+        "project_file": "data/repositories/PhyNerd/labscript.json",
+        "project_path": "data/repositories/PhyNerd/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-labscript--forked-from--labscript_suite-labscript"
+    },
+    "dihm/labscript": {
+        "project_file": "data/repositories/dihm/labscript.json",
+        "project_path": "data/repositories/dihm/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-labscript--forked-from--labscript_suite-labscript"
+    },
+    "dsbarker/labscript": {
+        "project_file": "data/repositories/dsbarker/labscript.json",
+        "project_path": "data/repositories/dsbarker/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-labscript--forked-from--labscript_suite-labscript"
+    },
+    "spielman/labscript_mainline": {
+        "project_file": "data/repositories/spielman/labscript_mainline.json",
+        "project_path": "data/repositories/spielman/labscript_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript_mainline--forked-from--labscript_suite-labscript"
+    },
+    "cbillington/labscript": {
+        "project_file": "data/repositories/cbillington/labscript.json",
+        "project_path": "data/repositories/cbillington/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-labscript--forked-from--labscript_suite-labscript"
+    },
+    "shjohnst/labscript": {
+        "project_file": "data/repositories/shjohnst/labscript.json",
+        "project_path": "data/repositories/shjohnst/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/shjohnst-labscript--forked-from--labscript_suite-labscript"
+    },
+    "cavitylab/labscript": {
+        "project_file": "data/repositories/cavitylab/labscript.json",
+        "project_path": "data/repositories/cavitylab/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-labscript--forked-from--labscript_suite-labscript"
+    },
+    "lkohfahl/labscript": {
+        "project_file": "data/repositories/lkohfahl/labscript.json",
+        "project_path": "data/repositories/lkohfahl/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-labscript--forked-from--labscript_suite-labscript"
+    },
+    "fanyangphy/labscript": {
+        "project_file": "data/repositories/fanyangphy/labscript.json",
+        "project_path": "data/repositories/fanyangphy/labscript/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/fanyangphy-labscript--forked-from--labscript_suite-labscript"
+    },
+    "spielman/lyse": {
+        "project_file": "data/repositories/spielman/lyse.json",
+        "project_path": "data/repositories/spielman/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-lyse--forked-from--labscript_suite-lyse"
+    },
+    "mearnshaw/lyse": {
+        "project_file": "data/repositories/mearnshaw/lyse.json",
+        "project_path": "data/repositories/mearnshaw/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-lyse--forked-from--labscript_suite-lyse"
+    },
+    "monashkrb/lyse": {
+        "project_file": "data/repositories/monashkrb/lyse.json",
+        "project_path": "data/repositories/monashkrb/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-lyse--forked-from--labscript_suite-lyse"
+    },
+    "monashspinor/lyse": {
+        "project_file": "data/repositories/monashspinor/lyse.json",
+        "project_path": "data/repositories/monashspinor/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-lyse--forked-from--labscript_suite-lyse"
+    },
+    "zachglassman/lyse": {
+        "project_file": "data/repositories/zachglassman/lyse.json",
+        "project_path": "data/repositories/zachglassman/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-lyse--forked-from--labscript_suite-lyse"
+    },
+    "cbillington/lyse": {
+        "project_file": "data/repositories/cbillington/lyse.json",
+        "project_path": "data/repositories/cbillington/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-lyse--forked-from--labscript_suite-lyse"
+    },
+    "dihm/lyse": {
+        "project_file": "data/repositories/dihm/lyse.json",
+        "project_path": "data/repositories/dihm/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-lyse--forked-from--labscript_suite-lyse"
+    },
+    "PhyNerd/lyse": {
+        "project_file": "data/repositories/PhyNerd/lyse.json",
+        "project_path": "data/repositories/PhyNerd/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-lyse--forked-from--labscript_suite-lyse"
+    },
+    "dsbarker/lyse": {
+        "project_file": "data/repositories/dsbarker/lyse.json",
+        "project_path": "data/repositories/dsbarker/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-lyse--forked-from--labscript_suite-lyse"
+    },
+    "spielman/lyse_mainline": {
+        "project_file": "data/repositories/spielman/lyse_mainline.json",
+        "project_path": "data/repositories/spielman/lyse_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-lyse_mainline--forked-from--labscript_suite-lyse"
+    },
+    "cavitylab/lyse": {
+        "project_file": "data/repositories/cavitylab/lyse.json",
+        "project_path": "data/repositories/cavitylab/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-lyse--forked-from--labscript_suite-lyse"
+    },
+    "pstarkey/lyse": {
+        "project_file": "data/repositories/pstarkey/lyse.json",
+        "project_path": "data/repositories/pstarkey/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-lyse--forked-from--labscript_suite-lyse"
+    },
+    "lkohfahl/lyse": {
+        "project_file": "data/repositories/lkohfahl/lyse.json",
+        "project_path": "data/repositories/lkohfahl/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-lyse--forked-from--labscript_suite-lyse"
+    },
+    "synqs/lyse": {
+        "project_file": "data/repositories/synqs/lyse.json",
+        "project_path": "data/repositories/synqs/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/synqs-lyse--forked-from--labscript_suite-lyse"
+    },
+    "rpanderson/lyse": {
+        "project_file": "data/repositories/rpanderson/lyse.json",
+        "project_path": "data/repositories/rpanderson/lyse/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rpanderson-lyse--forked-from--labscript_suite-lyse"
+    },
+    "spielman/mise": {
+        "project_file": "data/repositories/spielman/mise.json",
+        "project_path": "data/repositories/spielman/mise/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-mise--forked-from--labscript_suite-mise"
+    },
+    "mearnshaw/mise": {
+        "project_file": "data/repositories/mearnshaw/mise.json",
+        "project_path": "data/repositories/mearnshaw/mise/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-mise--forked-from--labscript_suite-mise"
+    },
+    "monashkrb/mise": {
+        "project_file": "data/repositories/monashkrb/mise.json",
+        "project_path": "data/repositories/monashkrb/mise/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-mise--forked-from--labscript_suite-mise"
+    },
+    "cavitylab/mise": {
+        "project_file": "data/repositories/cavitylab/mise.json",
+        "project_path": "data/repositories/cavitylab/mise/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-mise--forked-from--labscript_suite-mise"
+    },
+    "spielman/runmanager": {
+        "project_file": "data/repositories/spielman/runmanager.json",
+        "project_path": "data/repositories/spielman/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "mearnshaw/runmanager": {
+        "project_file": "data/repositories/mearnshaw/runmanager.json",
+        "project_path": "data/repositories/mearnshaw/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "monashkrb/runmanager": {
+        "project_file": "data/repositories/monashkrb/runmanager.json",
+        "project_path": "data/repositories/monashkrb/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "monashspinor/runmanager": {
+        "project_file": "data/repositories/monashspinor/runmanager.json",
+        "project_path": "data/repositories/monashspinor/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "cbillington/runmanager": {
+        "project_file": "data/repositories/cbillington/runmanager.json",
+        "project_path": "data/repositories/cbillington/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "pstarkey/runmanager": {
+        "project_file": "data/repositories/pstarkey/runmanager.json",
+        "project_path": "data/repositories/pstarkey/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "zachglassman/runmanager": {
+        "project_file": "data/repositories/zachglassman/runmanager.json",
+        "project_path": "data/repositories/zachglassman/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "dihm/runmanager": {
+        "project_file": "data/repositories/dihm/runmanager.json",
+        "project_path": "data/repositories/dihm/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "PhyNerd/runmanager": {
+        "project_file": "data/repositories/PhyNerd/runmanager.json",
+        "project_path": "data/repositories/PhyNerd/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "dsbarker/runmanager": {
+        "project_file": "data/repositories/dsbarker/runmanager.json",
+        "project_path": "data/repositories/dsbarker/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "spielman/runmanager_mainline": {
+        "project_file": "data/repositories/spielman/runmanager_mainline.json",
+        "project_path": "data/repositories/spielman/runmanager_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-runmanager_mainline--forked-from--labscript_suite-runmanager"
+    },
+    "cavitylab/runmanager": {
+        "project_file": "data/repositories/cavitylab/runmanager.json",
+        "project_path": "data/repositories/cavitylab/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "lkohfahl/runmanager": {
+        "project_file": "data/repositories/lkohfahl/runmanager.json",
+        "project_path": "data/repositories/lkohfahl/runmanager/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-runmanager--forked-from--labscript_suite-runmanager"
+    },
+    "spielman/runviewer": {
+        "project_file": "data/repositories/spielman/runviewer.json",
+        "project_path": "data/repositories/spielman/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "mearnshaw/runviewer": {
+        "project_file": "data/repositories/mearnshaw/runviewer.json",
+        "project_path": "data/repositories/mearnshaw/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "monashkrb/runviewer": {
+        "project_file": "data/repositories/monashkrb/runviewer.json",
+        "project_path": "data/repositories/monashkrb/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "monashspinor/runviewer": {
+        "project_file": "data/repositories/monashspinor/runviewer.json",
+        "project_path": "data/repositories/monashspinor/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "pstarkey/runviewer": {
+        "project_file": "data/repositories/pstarkey/runviewer.json",
+        "project_path": "data/repositories/pstarkey/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "zachglassman/runviewer": {
+        "project_file": "data/repositories/zachglassman/runviewer.json",
+        "project_path": "data/repositories/zachglassman/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "dihm/runviewer": {
+        "project_file": "data/repositories/dihm/runviewer.json",
+        "project_path": "data/repositories/dihm/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "PhyNerd/runviewer": {
+        "project_file": "data/repositories/PhyNerd/runviewer.json",
+        "project_path": "data/repositories/PhyNerd/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "dsbarker/runviewer": {
+        "project_file": "data/repositories/dsbarker/runviewer.json",
+        "project_path": "data/repositories/dsbarker/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "spielman/runviewer_mainline": {
+        "project_file": "data/repositories/spielman/runviewer_mainline.json",
+        "project_path": "data/repositories/spielman/runviewer_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-runviewer_mainline--forked-from--labscript_suite-runviewer"
+    },
+    "cbillington/runviewer": {
+        "project_file": "data/repositories/cbillington/runviewer.json",
+        "project_path": "data/repositories/cbillington/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "shjohnst/runviewer": {
+        "project_file": "data/repositories/shjohnst/runviewer.json",
+        "project_path": "data/repositories/shjohnst/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/shjohnst-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "cavitylab/runviewer": {
+        "project_file": "data/repositories/cavitylab/runviewer.json",
+        "project_path": "data/repositories/cavitylab/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "lkohfahl/runviewer": {
+        "project_file": "data/repositories/lkohfahl/runviewer.json",
+        "project_path": "data/repositories/lkohfahl/runviewer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-runviewer--forked-from--labscript_suite-runviewer"
+    },
+    "mearnshaw/labscript_devices": {
+        "project_file": "data/repositories/mearnshaw/labscript_devices.json",
+        "project_path": "data/repositories/mearnshaw/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/mearnshaw-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "monashkrb/labscript_devices": {
+        "project_file": "data/repositories/monashkrb/labscript_devices.json",
+        "project_path": "data/repositories/monashkrb/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "monashspinor/labscript_devices": {
+        "project_file": "data/repositories/monashspinor/labscript_devices.json",
+        "project_path": "data/repositories/monashspinor/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "spielman/labscript_devices": {
+        "project_file": "data/repositories/spielman/labscript_devices.json",
+        "project_path": "data/repositories/spielman/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "pstarkey/labscript_devices": {
+        "project_file": "data/repositories/pstarkey/labscript_devices.json",
+        "project_path": "data/repositories/pstarkey/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/pstarkey-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "wrightlab/labscript_devices": {
+        "project_file": "data/repositories/wrightlab/labscript_devices.json",
+        "project_path": "data/repositories/wrightlab/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/wrightlab-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "cast7989/labscript_devices": {
+        "project_file": "data/repositories/cast7989/labscript_devices.json",
+        "project_path": "data/repositories/cast7989/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cast7989-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "zachglassman/labscript_devices": {
+        "project_file": "data/repositories/zachglassman/labscript_devices.json",
+        "project_path": "data/repositories/zachglassman/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/zachglassman-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "lincolnturner/alazartech": {
+        "project_file": "data/repositories/lincolnturner/alazartech.json",
+        "project_path": "data/repositories/lincolnturner/alazartech/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lincolnturner-alazartech--forked-from--labscript_suite-labscript_devices"
+    },
+    "dihm/labscript_devices": {
+        "project_file": "data/repositories/dihm/labscript_devices.json",
+        "project_path": "data/repositories/dihm/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "cbillington/labscript_devices": {
+        "project_file": "data/repositories/cbillington/labscript_devices.json",
+        "project_path": "data/repositories/cbillington/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "ReneKolb/labscript_devices": {
+        "project_file": "data/repositories/ReneKolb/labscript_devices.json",
+        "project_path": "data/repositories/ReneKolb/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/ReneKolb-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "PhyNerd/labscript_devices": {
+        "project_file": "data/repositories/PhyNerd/labscript_devices.json",
+        "project_path": "data/repositories/PhyNerd/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/PhyNerd-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "dsbarker/labscript_devices": {
+        "project_file": "data/repositories/dsbarker/labscript_devices.json",
+        "project_path": "data/repositories/dsbarker/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dsbarker-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "spielman/labscript_devices_mainline": {
+        "project_file": "data/repositories/spielman/labscript_devices_mainline.json",
+        "project_path": "data/repositories/spielman/labscript_devices_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-labscript_devices_mainline--forked-from--labscript_suite-labscript_devices"
+    },
+    "cavitylab/labscript_devices": {
+        "project_file": "data/repositories/cavitylab/labscript_devices.json",
+        "project_path": "data/repositories/cavitylab/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "lkohfahl/labscript_devices": {
+        "project_file": "data/repositories/lkohfahl/labscript_devices.json",
+        "project_path": "data/repositories/lkohfahl/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/lkohfahl-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "rbchip/labscript_devices": {
+        "project_file": "data/repositories/rbchip/labscript_devices.json",
+        "project_path": "data/repositories/rbchip/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/rbchip-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "philipstarkey/labscript_devices": {
+        "project_file": "data/repositories/philipstarkey/labscript_devices.json",
+        "project_path": "data/repositories/philipstarkey/labscript_devices/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/philipstarkey-labscript_devices--forked-from--labscript_suite-labscript_devices"
+    },
+    "monashkrb/bias": {
+        "project_file": "data/repositories/monashkrb/bias.json",
+        "project_path": "data/repositories/monashkrb/bias/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-bias--forked-from--labscript_suite-bias"
+    },
+    "cavitylab/bias": {
+        "project_file": "data/repositories/cavitylab/bias.json",
+        "project_path": "data/repositories/cavitylab/bias/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-bias--forked-from--labscript_suite-bias"
+    },
+    "monashkrb/installer": {
+        "project_file": "data/repositories/monashkrb/installer.json",
+        "project_path": "data/repositories/monashkrb/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashkrb-installer--forked-from--labscript_suite-installer"
+    },
+    "monashspinor/installer": {
+        "project_file": "data/repositories/monashspinor/installer.json",
+        "project_path": "data/repositories/monashspinor/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/monashspinor-installer--forked-from--labscript_suite-installer"
+    },
+    "cbillington/installer": {
+        "project_file": "data/repositories/cbillington/installer.json",
+        "project_path": "data/repositories/cbillington/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cbillington-installer--forked-from--labscript_suite-installer"
+    },
+    "dihm/installer": {
+        "project_file": "data/repositories/dihm/installer.json",
+        "project_path": "data/repositories/dihm/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/dihm-installer--forked-from--labscript_suite-installer"
+    },
+    "spielman/installer_mainline": {
+        "project_file": "data/repositories/spielman/installer_mainline.json",
+        "project_path": "data/repositories/spielman/installer_mainline/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/spielman-installer_mainline--forked-from--labscript_suite-installer"
+    },
+    "cavitylab/installer": {
+        "project_file": "data/repositories/cavitylab/installer.json",
+        "project_path": "data/repositories/cavitylab/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-installer--forked-from--labscript_suite-installer"
+    },
+    "synqs/installer": {
+        "project_file": "data/repositories/synqs/installer.json",
+        "project_path": "data/repositories/synqs/installer/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/synqs-installer--forked-from--labscript_suite-installer"
+    },
+    "martijnj/bitblaster": {
+        "project_file": "data/repositories/martijnj/bitblaster.json",
+        "project_path": "data/repositories/martijnj/bitblaster/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/martijnj-bitblaster--forked-from--labscript_suite-pineblaster"
+    },
+    "cavitylab/pineblaster": {
+        "project_file": "data/repositories/cavitylab/pineblaster.json",
+        "project_path": "data/repositories/cavitylab/pineblaster/",
+        "is_fork": true,
+        "github_repo": "https://github.com/labscript-suite-bitbucket-archive/cavitylab-pineblaster--forked-from--labscript_suite-pineblaster"
+    }
+}
